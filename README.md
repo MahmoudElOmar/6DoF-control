@@ -5,7 +5,7 @@ Position control is assured through a conventional PD control law.
 
 Orientation control is performed using quaternions, based on the following paper : 
 
-## Emil Fresk, George Nikolakopoulos
+Emil Fresk, George Nikolakopoulos
 
 Full Quaternion Based Attitude Control for a Quadrotor.
 
